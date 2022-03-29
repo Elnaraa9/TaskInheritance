@@ -29,6 +29,5 @@ namespace Inheritance
             this.color = color;
             this.maxSpeed = maxSpeed;
         }
-       
     }
 }
